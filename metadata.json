@@ -1,0 +1,8 @@
+{
+  "name": "SynapsePhysical - Physical AI Platform",
+  "description": "Industrial Physical AI platform for real-time digital twins, predictive maintenance, automated optical inspection, and robotics safety interlocks aligned with 2026 NIST standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
